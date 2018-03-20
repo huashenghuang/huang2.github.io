@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List of scientific publications
+title:
 permalink: /Publications/
 ---
 
