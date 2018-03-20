@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: Welcome!
 permalink: /about/
 ---
-Welcome!
 
 This is a testing page!
 
