@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
@@ -13,9 +13,7 @@ I started my PhD project at University of Amsterdam on October 2016. In this pro
 
 ### Contact me
 
-[buxushuang@gmail.com](mailto:buxushuang@gmail.com)
-
-[H.Huang@uva.nl](mailto:H.Huang@uva.nl)
+Emails: [buxushuang@gmail.com](mailto:buxushuang@gmail.com) & [H.Huang@uva.nl](mailto:H.Huang@uva.nl)
 
 Post address: Department of Ecosystem & Landscape Dynamics, Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam, P.O. Box 94248, 1090 GE Amsterdam, The Netherlands
 
