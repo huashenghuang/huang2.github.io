@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+#Welcome!
 
-Some information about you!
+##
+This is a testing page!
 
 ### More Information
 
@@ -12,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[buxushuang@gmail.com](mailto:buxushuang@gmail.com)
