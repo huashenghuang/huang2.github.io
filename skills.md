@@ -5,12 +5,12 @@ permalink: /Skills/
 ---
 
 
-# Palynology
+### Palynology
 
 Pollen morphology in Eocene – Oligocene Central Myanmar Basin
 
 
 
-# Paleobotany
+### Paleobotany
 
 Fossil leaf architecture and cuticular analysis
