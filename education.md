@@ -4,6 +4,9 @@ title: Education background
 permalink: /Education/
 ---
 
+
+
+
 ### 2016 to present
 
 PhD Candidate, biology, Department of Ecosystem adn Landscape Dynamics, Institute for Biodiversdity and Ecosystem Dynamics, University of Amsterdam, Amsterdam, The Netherlands.
