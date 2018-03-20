@@ -19,3 +19,9 @@ Post address: Department of Ecosystem & Landscape Dynamics, Institute for Biodiv
 
 Tel: +31 (0)62 619 1953	
 
+
+### Related links
+
+Personal UvA website: http://www.uva.nl/en/profile/h/u/h.huang/h.huang.html
+
+Researchgate: https://www.researchgate.net/profile/Huasheng_Huang
