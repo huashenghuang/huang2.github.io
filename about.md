@@ -3,9 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-#Welcome!
+Welcome!
 
-##
 This is a testing page!
 
 ### More Information
