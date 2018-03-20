@@ -3,7 +3,8 @@ layout: post
 title: Hello!/你好!/Hola!/Bonjour!/Ciao!/Olá!
 ---
 
-Welcome! This is Huasheng Huang's website. Thanks for your visting! My info is as below.
+Welcome! This is Huasheng Huang's website. Thanks for your visting! My brief contact info is as below.
+
 
 Mr. HUANG Huasheng MSc – Ph.D student	
 
