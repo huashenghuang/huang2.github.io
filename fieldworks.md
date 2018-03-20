@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /Fields/
+permalink: /Fieldworks/
 ---
 
 ### November 2017
