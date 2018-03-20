@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello!你好!Hallo!Hola!Bonjour!नमस्ते!Ciao!こんにちは!Здравствуйте!สวัสดี!Merhaba!xin chào!Olá!
+title: Hello!你好!Hallo!Hola!Bonjour!नमस्ते!Ciao!Olá!
 ---
 
 Welcome! This is Huasheng Huang's website. Thanks for your visting! 
