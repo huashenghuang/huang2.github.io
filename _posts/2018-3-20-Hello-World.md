@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Hello!/你好!/Hola!/Bonjour!/Ciao!/Olá!
+title: Hello!/你好!/Hola!/Ciao!
 ---
 
+
 Welcome! This is Huasheng Huang's website. Thanks for your visting! My brief contact info is as below.
+
 
 
 Mr. HUANG Huasheng MSc – Ph.D student	
