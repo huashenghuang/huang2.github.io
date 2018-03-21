@@ -12,6 +12,10 @@ Ecosystem Dynamics, University of Amsterdam, The Netherlands. (PhD Project title
 in response to global climatic change during the Cenozoic: A palynological study of key sites in SSE Asia. 
 (Supervisors: Dr. HOORN Carina, Professor HOOGHIEMSTRA Henry. External advisors: Dr. LICHT Alexis, Dr. MORLEY Robert, Dr. DUPONT-NIVET Guillaume).
 
+![_config.yml]({{ site.baseurl }}/images/IBED logo.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/UvA-logo-english.jpg)
+
 
 ### June 2016
 
