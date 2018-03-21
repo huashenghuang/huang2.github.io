@@ -18,4 +18,4 @@ Paleofire reconstruction in Miocene Wenshan, Yunnan, SW China, 07. 2015-06. 2018
 
 Monsoons of Asia caused Greenhouse to Icehouse Cooling, Europrean Research Council Consolidator Grant, led by Guillaume Dupont-Nivet, from CNRS and Univeristy of Potsdam.
 
-![_config.yml]({{ site.baseurl }}/images/LOGO_ERC.jpg)
+![_config.yml]({{ site.baseurl }}/images/erc1.jpg)
