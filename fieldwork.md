@@ -58,6 +58,10 @@ Central Yunnan (Lvhe), China – organized by Paleoecology Research Group, Key L
 
 Central and southwest Yunnan (Lvhe, Baoshan, Dehong & Lincang), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
 
+![_config.yml]({{ site.baseurl }}/images/20150101.JPG)
+
+![_config.yml]({{ site.baseurl }}/images/20150102.JPG)
+
 
 ### December 2014
 
