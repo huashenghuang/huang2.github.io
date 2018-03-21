@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ![_config.yml]({{ site.baseurl }}/images/about1.jpg)
+title:
 permalink: /about/
 ---
 
