@@ -63,6 +63,10 @@ Central and southwest Yunnan (Lvhe, Baoshan, Dehong & Lincang), China – organi
 
 East, central and northwest Yunnan (Qujing, Lvhe, Heqing & Shangri-la), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
 
+![_config.yml]({{ site.baseurl }}/images/20141201.JPG)
+
+![_config.yml]({{ site.baseurl }}/images/20141202.JPG)
+
 
 ### October & November 2014
 
