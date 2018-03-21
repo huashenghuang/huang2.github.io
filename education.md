@@ -4,8 +4,6 @@ title:
 permalink: /Education/awards/
 ---
 
-![_config.yml]({{ site.baseurl }}/images/education.png)
-
 
 ### October 2016 – 
 
