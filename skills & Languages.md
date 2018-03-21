@@ -10,6 +10,7 @@ permalink: /Skills/
 
 Pollen morphology in Eocene – Oligocene Central Myanmar Basin
 
+![_config.yml]({{ site.baseurl }}/images/pollen.jpg)
 
 
 ### Paleobotany
