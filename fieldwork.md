@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fieldwork :)
+title: Fieldwork
 permalink: /Fieldwork/
 ---
 
