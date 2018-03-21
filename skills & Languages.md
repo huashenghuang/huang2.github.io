@@ -17,6 +17,8 @@ Pollen morphology in Eocene – Oligocene Central Myanmar Basin
 
 Fossil leaf architecture and cuticular analysis
 
+![_config.yml]({{ site.baseurl }}/images/leaves.jpg)
+
 
 ### Languages
 
