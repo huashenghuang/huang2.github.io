@@ -58,6 +58,10 @@ Third-class scholarship from South China Agricultural University, Guangzhou, Chi
 BSc Agriculture (horticulture), College of Horticulture, South China Agricultural University, Guangzhou, 
 Guangdong, China. (BSc thesis: Effect of Sulphur dioxide fumigation on post-harvest physiology and quality of Longan (cv. Caopuzhong) fruit stored at low temperature. Advisor: Professor WU Zhenxian)
 
+![_config.yml]({{ site.baseurl }}/images/scau flowers.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/scaulogo.jpg)
+
 
 ### December 2012
 
