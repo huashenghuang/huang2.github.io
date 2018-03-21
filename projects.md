@@ -11,6 +11,8 @@ Paleofire reconstruction in Miocene Wenshan, Yunnan, SW China, 07. 2015-06. 2018
 
 ![_config.yml]({{ site.baseurl }}/images/charcoal.jpg)
 
+![_config.yml]({{ site.baseurl }}/images/nigpas.jpg)
+
 
 ### PhD Candidate
 
