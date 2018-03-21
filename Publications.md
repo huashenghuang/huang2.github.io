@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications :)
-permalink: /Publications/
+permalink: /Publication/
 ---
 
 1. H. Huang, J. Hu, T. Su, Z. Zhou, 2016. The occurrence of Quercus heqingensis n. sp. and its application to palaeo-CO2
