@@ -42,6 +42,12 @@ West, central and southeast Yunnan (Heqing, Lvhe, Wenshan & Maguan), China – o
 
 East Tibet (Changdu District) and southern Sichuan (Xiangcheng), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
 
+![_config.yml]({{ site.baseurl }}/images/20150501.JPG)
+
+![_config.yml]({{ site.baseurl }}/images/20150502.JPG)
+
+![_config.yml]({{ site.baseurl }}/images/20150503.JPG)
+
 
 ### April 2015
 
