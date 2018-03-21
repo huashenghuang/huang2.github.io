@@ -67,3 +67,9 @@ East, central and northwest Yunnan (Qujing, Lvhe, Heqing & Shangri-la), China â€
 ### October & November 2014
 
 Northwest Yunnan (Dali, Lijiang & Shangri-la), China â€“ organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
+
+![_config.yml]({{ site.baseurl }}/images/20141001.JPG)
+
+![_config.yml]({{ site.baseurl }}/images/20141002.JPG)
+
+![_config.yml]({{ site.baseurl }}/images/20141003.JPG)
