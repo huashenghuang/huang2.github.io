@@ -35,6 +35,8 @@ South Yunnan (Jinggu), China – organized by Paleoecology Research Group, Key L
 
 West, central and southeast Yunnan (Heqing, Lvhe, Wenshan & Maguan), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
 
+![_config.yml]({{ site.baseurl }}/images/201508.JPG)
+
 
 ### May & June 2015
 
