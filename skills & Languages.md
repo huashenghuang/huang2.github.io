@@ -4,8 +4,6 @@ title:
 permalink: /Skills/
 ---
 
-![_config.yml]({{ site.baseurl }}/images/skills.png)
-
 
 ### Palynology
 
