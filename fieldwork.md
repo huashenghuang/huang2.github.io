@@ -9,7 +9,7 @@ permalink: /Fieldworks/
 
 Central Myanmar Basin (Chindwin subbasin & Minbu subbasin) – organized by Myanmar Paleoclimte and Geodynamics research group (MyaPGR) led by Dr. LICHT Alexis.
 
-![_config.yml]({{ site.baseurl }}/images/fieldwork.jpg)
+![_config.yml]({{ site.baseurl }}/images/fieldwork.JPG)
 
 
 ### December 2016	
