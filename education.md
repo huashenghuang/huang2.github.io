@@ -71,4 +71,4 @@ Third Prize in 4th Marine Knowledge Competition of National College Students, Gu
 
 Certificates of CET-4 and CET-6 (College English Test), Guangzhou, Guangdong, China.
 
-![_config.yml]({{ site.baseurl }}/images/cet46.jpg)
+![_config.yml]({{ site.baseurl }}/images/cetlogo.png)
