@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Hello!你好!
+title: Hello!
 ---
 
 
-Welcome! This is Huasheng Huang(黄华生)'s website. Thanks for your visting!
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Welcome! This is Huasheng Huang's website. Thanks for your visting！
