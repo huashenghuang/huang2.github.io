@@ -18,4 +18,6 @@ estimates (in Chinese). Chinese Science Bulletin, 61(12):1354-1364.
 
 5. H. Huang, A. Licht, R. Morley, G. Dupont-Nivet, Zaw Win, J. Westerweel, V. Littell, Hnin Hnin Swe, Myat Kaythi, Day Wa Aung, P. Roperch, F. Poblete, Kyaing Sein, P. Jardine, A. Philip, C. Hoorn. Palynology of the Central Myanmar Basin corroborates Eocene – Oligocene monsoonal conditions in south-east Asia. EPPC2018 in Dublin, Ireland. (Abstract submitted)
 
+
+
 ![_config.yml]({{ site.baseurl }}/images/Publications.JPG)
