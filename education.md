@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Education/awards
-permalink: /Education/awards/
+title: Education
+permalink: /Education/
 ---
 
 
