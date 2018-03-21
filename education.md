@@ -5,6 +5,8 @@ permalink: /Education/awards/
 ---
 
 
+![_config.yml]({{ site.baseurl }}/images/education.png)
+
 ### October 2016 – 
 
 Ph.D student, Department of Ecosystem and Landscape Dynamics, Institute for Biodiversity and 
