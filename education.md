@@ -14,7 +14,7 @@ in response to global climatic change during the Cenozoic: A palynological study
 
 ![_config.yml]({{ site.baseurl }}/images/IBEDlogo.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/UvA_logo.jpg)
+![_config.yml]({{ site.baseurl }}/images/uva_logo.jpg)
 
 
 ### June 2016
