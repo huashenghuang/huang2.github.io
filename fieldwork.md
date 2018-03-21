@@ -53,8 +53,6 @@ East Tibet (Changdu District) and southern Sichuan (Xiangcheng), China – organ
 
 Central Yunnan (Lvhe), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
 
-![_config.yml]({{ site.baseurl }}/images/201504.JPG)
-
 
 ### January 2015
 
