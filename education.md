@@ -21,6 +21,8 @@ in response to global climatic change during the Cenozoic: A palynological study
 
 PhD scholarship from China Scholarship Council (CSC).
 
+![_config.yml]({{ site.baseurl }}/images/CSC.jpg)
+
 
 ### September 2013 –July 2016
 
