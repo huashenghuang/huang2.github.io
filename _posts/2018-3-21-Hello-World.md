@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my website!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hi! This is Huasheng Huang's website. Thanks for your visit!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I am now a PhD student at Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam. My project involves in the study on paleovegation, paleoclimate and paleoenvironment in central Myanmar Basin with the proxy of Pollen.
