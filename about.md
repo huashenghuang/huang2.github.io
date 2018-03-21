@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![_config.yml]({{ site.baseurl }}/images/about.png)
+
 I am a PhD student within Department of Ecosystem & Landscape Dynamics under the supervision of Dr. Carina Hoorn and Prof. Henry Hooghiemstra, and part of MyaPGR group (Myanmar Paleoclimate and Geodynamics research group, led by Alexis Licht, from University of Washington). I am also involved in a ERC consolidator grant - MAGIC, Monsoons of Asia caused Greenhouse to Icehouse Cooling, led by Guillaume Dupont-nivet, from CNRS and Univeristy of Potsdam, Germany.
 
 
