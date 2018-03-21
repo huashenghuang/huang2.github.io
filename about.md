@@ -9,9 +9,9 @@ I am a PhD student within Department of Ecosystem & Landscape Dynamics under the
 
 I started my PhD project at University of Amsterdam on October 2016. In this project, I focus on two key climatic events of the Cenozoic history and research these at two sites in the south-southeastern Asian region. The specific aim is to analyse the changes in plant composition by means of pollen and spores, and determine how plants responded to climate change at the Eocene-Oligocene Transition, and in the late Miocene in this monsoon dominated region.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/IBED logo.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/first-post.png)
+![_config.yml]({{ site.baseurl }}/images/UvA-logo-english.jpg)
 
 
 ### Contact me
