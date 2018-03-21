@@ -1,8 +1,9 @@
 ---
 layout: page
-title:
-permalink: /Fieldwork/
+title: Fieldworks
+permalink: /Fieldworks/
 ---
+
 
 ### November 2017
 
