@@ -33,7 +33,7 @@ Xishuangbanna Tropical Botanical Garden (XTBG), Chinese Academy of Sciences, Men
 
 ![_config.yml]({{ site.baseurl }}/images/xtbg_small.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/CAS_log.png)
+![_config.yml]({{ site.baseurl }}/images/CAS_logo_2.png)
 
 
 ### June 2015
