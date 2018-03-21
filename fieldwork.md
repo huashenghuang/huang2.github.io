@@ -23,6 +23,8 @@ Central Myanmar Basin (Chindwin subbasin) – organized by Myanmar Paleoclimte a
 
 Northwest Yunnan (Lijiang & Dali), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
 
+![_config.yml]({{ site.baseurl }}/images/201605.JPG)
+
 
 ### September 2015
 
