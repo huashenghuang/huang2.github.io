@@ -16,6 +16,9 @@ Central Myanmar Basin (Chindwin subbasin & Minbu subbasin) – organized by Myan
 
 Central Myanmar Basin (Chindwin subbasin) – organized by Myanmar Paleoclimte and Geodynamics research group (MyaPGR) led by Dr. LICHT Alexis.
 
+![_config.yml]({{ site.baseurl }}/images/fie.JPG)
+
+
 ### May 2016
 
 Northwest Yunnan (Lijiang & Dali), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
