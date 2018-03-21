@@ -30,6 +30,8 @@ Northwest Yunnan (Lijiang & Dali), China – organized by Paleoecology Research 
 
 South Yunnan (Jinggu), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
 
+![_config.yml]({{ site.baseurl }}/images/201509.JPG)
+
 
 ### August 2015
 
