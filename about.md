@@ -26,6 +26,4 @@ Tel: +31 (0)62 619 1953
 
 <a href="http://www.uva.nl/en/profile/h/u/h.huang/h.huang.html" target="_blank">Personal UvA website</a>
 
-Personal UvA website [http://www.uva.nl/en/profile/h/u/h.huang/h.huang.html]
-
-Researchgate [https://www.researchgate.net/profile/Huasheng_Huang]
+<a href="https://www.researchgate.net/profile/Huasheng_Huang" target="_blank">Personal Researchgate</a>
