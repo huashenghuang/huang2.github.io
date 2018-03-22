@@ -7,7 +7,7 @@ permalink: /Projects/
 
 ### MSc
 
-Paleofire reconstruction in Miocene Wenshan, Yunnan, SW China, 07. 2015-06. 2018. Open Subject Fund from <a href="http://english.nigpas.cas.cn/rh/rd/sklps/" target="_blank">State Key Laboratory of Palaeobiology and Stratigraphy</a>, <a href="http://english.nigpas.cas.cn" target="_blank">Nanjing Institute of Geology and Palaeontology (NIGPAS)</a>, <a href="http://english.cas.cn" target="_blank">Chinese Academy of Sciences</a>. (Participated)
+Paleofire reconstruction in Miocene Wenshan, Yunnan, SW China, 07. 2015-06. 2018. Open Subject Fund from <a href="http://english.nigpas.cas.cn/rh/rd/sklps/" target="_blank">State Key Laboratory of Palaeobiology and Stratigraphy</a>, <a href="http://english.nigpas.cas.cn" target="_blank">Nanjing Institute of Geology and Palaeontology (NIGPAS)</a>, <a href="http://english.cas.cn" target="_blank">Chinese Academy of Sciences</a>, led by Shufeng Li, from Xishuangbanna Tropical Bptanical Garden, Chinese Academy of Sciences. (Participated)
 
 ![_config.yml]({{ site.baseurl }}/images/charcoal.jpg)
 
