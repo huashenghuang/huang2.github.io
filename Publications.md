@@ -8,7 +8,7 @@ permalink: /Publications/
 
 
 1. H. Huang, J. Hu, T. Su, Z. Zhou, 2016. The occurrence of Quercus heqingensis n. sp. and its application to palaeo-CO2
-estimates (in Chinese). <a href="http://engine.scichina.com/publisher/scp/journal/CSB?slug=Overview" target="_blank">Chinese Science Bulletin</a>, 61(12):1354-1364. 
+estimates (in Chinese). <a href="http://engine.scichina.com/publisher/scp/journal/CSB?slug=Overview" target="_blank">Chinese Science Bulletin</a>, 61(12):1354-1364. <a href="http://engine.scichina.com/publisher/scp/journal/CSB/61/12/10.1360/N972015-01198?slug=full%20text" target="_blank">pdf</a>
 
 2. H. Huang, T. Su, Z. Zhou, 2017. Fossil leaves of Buxus (Buxaceae) from the Upper Pliocene of Yunnan, SW China. Palaeoworld https://doi.org/10.1016/j.palwor.2017.12.003.
 
