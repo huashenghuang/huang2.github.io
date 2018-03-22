@@ -30,7 +30,7 @@ MSc Bioengineering, <a href="http://prg-en.groups.xtbg.ac.cn" target="_blank">Pa
 
 ![_config.yml]({{ site.baseurl }}/images/xtbg.JPG)
 
-![_config.yml]({{ site.baseurl }}/images/xtbg2.jpg)
+![_config.yml]({{ site.baseurl }}/images/xtbg2.JPG)
 
 
 ### June 2015
