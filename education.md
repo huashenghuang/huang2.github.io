@@ -30,7 +30,11 @@ MSc Bioengineering, <a href="http://prg-en.groups.xtbg.ac.cn" target="_blank">Pa
 
 ![_config.yml]({{ site.baseurl }}/images/xtbg.JPG)
 
+Tabebuia sp.
+
 ![_config.yml]({{ site.baseurl }}/images/11.JPG)
+
+Pandanus sp.
 
 
 ### June 2015
