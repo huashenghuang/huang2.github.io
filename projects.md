@@ -16,7 +16,7 @@ Paleofire reconstruction in Miocene Wenshan, Yunnan, SW China, 07. 2015-06. 2018
 
 ### PhD Candidate
 
-<a href="https://cordis.europa.eu/project/rcn/197271_en.html" target="_blank">MAGIC</a>，Monsoons of Asia caused Greenhouse to Icehouse Cooling, Europrean Research Council Consolidator Grant, led by Guillaume Dupont-Nivet, from CNRS and Univeristy of Potsdam.
+<a href="https://cordis.europa.eu/project/rcn/197271_en.html" target="_blank">MAGIC</a>, Monsoons of Asia caused Greenhouse to Icehouse Cooling, Europrean Research Council Consolidator Grant, led by Guillaume Dupont-Nivet, from CNRS and Univeristy of Potsdam.
 
 ![_config.yml]({{ site.baseurl }}/images/erc1.jpg)
 
