@@ -4,4 +4,4 @@ title: Welcome!
 ---
 
 
-![_config.yml]({{ site.baseurl }}/images/xtbg3.JPG)
+![_config.yml]({{ site.baseurl }}/images/earth.JPG)
