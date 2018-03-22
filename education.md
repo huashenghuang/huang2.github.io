@@ -30,6 +30,8 @@ MSc Bioengineering, <a href="http://prg-en.groups.xtbg.ac.cn" target="_blank">Pa
 
 ![_config.yml]({{ site.baseurl }}/images/xtbg.JPG)
 
+![_config.yml]({{ site.baseurl }}/images/xtbg2.jpg)
+
 
 ### June 2015
 
@@ -62,8 +64,6 @@ BSc Agriculture (horticulture), <a href="http://yy.scau.edu.cn" target="_blank">
 Guangdong, China. (BSc thesis: Effect of Sulphur dioxide fumigation on post-harvest physiology and quality of Longan (cv. Caopuzhong) fruit stored at low temperature. Advisor: Professor WU Zhenxian)
 
 ![_config.yml]({{ site.baseurl }}/images/scau flowers.jpg)
-
-![_config.yml]({{ site.baseurl }}/images/xtbg2.jpg)
 
 
 ### December 2012
