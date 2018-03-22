@@ -40,6 +40,8 @@ MSc Bioengineering, <a href="http://prg-en.groups.xtbg.ac.cn" target="_blank">Pa
 
 Certificate of excellent contribution in Community Curation of Rice Genes in <a href="http://wiki.ic4r.org/index.php/Main_Page" target="_blank">RiceWiki</a> in 2014, Beijing, China.
 
+![_config.yml]({{ site.baseurl }}/images/rice.jpg)
+
 
 ### August 2013
 
