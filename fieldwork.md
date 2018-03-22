@@ -29,7 +29,7 @@ Northwest Yunnan (Lijiang & Dali), China – organized by Paleoecology Research 
 
 ![_config.yml]({{ site.baseurl }}/images/201605.JPG)
 
-Heqing, Yunnan Province
+Caojian Town, Yunlong County, Yunnan Province
 
 
 ### September 2015
@@ -42,6 +42,8 @@ South Yunnan (Jinggu), China – organized by Paleoecology Research Group, Key L
 West, central and southeast Yunnan (Heqing, Lvhe, Wenshan & Maguan), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
 
 ![_config.yml]({{ site.baseurl }}/images/201508.JPG)
+
+Heqing County, Yunnan Province
 
 
 ### May & June 2015
@@ -83,7 +85,11 @@ East, central and northwest Yunnan (Qujing, Lvhe, Heqing & Shangri-la), China �
 
 ![_config.yml]({{ site.baseurl }}/images/20141201.JPG)
 
+Kedu Town, Xundian County, Yunnan Province
+
 ![_config.yml]({{ site.baseurl }}/images/20141202.JPG)
+
+Heqing County, Yunnan Province
 
 
 ### October & November 2014
