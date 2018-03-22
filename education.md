@@ -18,7 +18,7 @@ in response to global climatic change during the Cenozoic: A palynological study
 
 ### June 2016
 
-PhD scholarship from <a href="http://www.csc.edu.cn" target="_blank">China Scholarship Council (CSC)</a>.
+PhD scholarship from China Scholarship Council (CSC).
 
 
 ### September 2013 –July 2016
@@ -60,6 +60,8 @@ BSc Agriculture (horticulture), <a href="http://yy.scau.edu.cn" target="_blank">
 Guangdong, China. (BSc thesis: Effect of Sulphur dioxide fumigation on post-harvest physiology and quality of Longan (cv. Caopuzhong) fruit stored at low temperature. Advisor: Professor WU Zhenxian)
 
 ![_config.yml]({{ site.baseurl }}/images/scau flowers.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/xtbg2.jpg)
 
 
 ### December 2012
