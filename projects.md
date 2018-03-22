@@ -18,6 +18,6 @@ Paleofire reconstruction in Miocene Wenshan, Yunnan, SW China, 07. 2015-06. 2018
 
 ![_config.yml]({{ site.baseurl }}/images/erc1.jpg)
 
-This project is collaborated by CNRS, University of Potsdam and University of Amsterdam.
+This project is collaborated by CNRS, University of Potsdam in Germany and University of Amsterdam in the Netherlands.
 
 ![_config.yml]({{ site.baseurl }}/images/cnrs.png)![_config.yml]({{ site.baseurl }}/images/potsdam.jpg)![_config.yml]({{ site.baseurl }}/images/UVA.png)
