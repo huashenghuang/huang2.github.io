@@ -7,8 +7,7 @@ permalink: /Education/
 
 ### October 2016 – 
 
-Ph.D student, Department of Ecosystem and Landscape Dynamics, Institute for Biodiversity and 
-Ecosystem Dynamics (IBED), University of Amsterdam, The Netherlands. (PhD Project title: Plant turnover 
+Ph.D student, Department of Ecosystem and Landscape Dynamics, <a href="http://ibed.uva.nl" target="_blank">Institute for Biodiversity and Ecosystem Dynamics (IBED)</a>, University of Amsterdam, The Netherlands. (PhD Project title: Plant turnover 
 in response to global climatic change during the Cenozoic: A palynological study of key sites in SSE Asia. 
 (Supervisors: Dr. HOORN Carina, Professor HOOGHIEMSTRA Henry. External advisors: Dr. LICHT Alexis, Dr. MORLEY Robert, Dr. DUPONT-NIVET Guillaume).
 
