@@ -11,7 +11,7 @@ I started my PhD project at University of Amsterdam in October 2016. In this pro
 
 ![_config.yml]({{ site.baseurl }}/images/12.JPG)
 
-Mount Langla in Tibet
+Photo in Mount Langla, Tibet
 
 
 ### Contact me
