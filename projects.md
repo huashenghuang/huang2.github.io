@@ -9,8 +9,6 @@ permalink: /Projects/
 
 Paleofire reconstruction in Miocene Wenshan, Yunnan, SW China, 07. 2015-06. 2018. Open Subject Fund from <a href="http://english.nigpas.cas.cn/rh/rd/sklps/" target="_blank">State Key Laboratory of Palaeobiology and Stratigraphy</a>, <a href="http://english.nigpas.cas.cn" target="_blank">Nanjing Institute of Geology and Palaeontology (NIGPAS)</a>, <a href="http://english.cas.cn" target="_blank">Chinese Academy of Sciences</a>.
 
-![_config.yml]({{ site.baseurl }}/images/nigpas.jpg)
-
 ![_config.yml]({{ site.baseurl }}/images/charcoal.jpg)
 
 
@@ -19,5 +17,7 @@ Paleofire reconstruction in Miocene Wenshan, Yunnan, SW China, 07. 2015-06. 2018
 <a href="https://cordis.europa.eu/project/rcn/197271_en.html" target="_blank">MAGIC</a>, Monsoons of Asia caused Greenhouse to Icehouse Cooling, Europrean Research Council Consolidator Grant, led by Guillaume Dupont-Nivet, from CNRS and Univeristy of Potsdam.
 
 ![_config.yml]({{ site.baseurl }}/images/erc1.jpg)
+
+This project is collaborated by CNRS, University of Potsdam and University of Amsterdam.
 
 ![_config.yml]({{ site.baseurl }}/images/cnrs.png)![_config.yml]({{ site.baseurl }}/images/potsdam.jpg)![_config.yml]({{ site.baseurl }}/images/UVA.png)
