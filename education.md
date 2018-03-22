@@ -25,8 +25,8 @@ PhD scholarship from China Scholarship Council (CSC).
 
 ### September 2013 –July 2016
 
-MSc Bioengineering, Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, 
-Xishuangbanna Tropical Botanical Garden (XTBG), Chinese Academy of Sciences, Mengla, Yunnan, China. (MSc thesis: Late Pliocene fossil plants from Heqing, Yunnan, SW China and their paleoenvironmental implications. Supervisor: Professor ZHOU Zhekun)
+MSc Bioengineering, <a href="http://prg-en.groups.xtbg.ac.cn" target="_blank">Paleoecology Research Group</a>, <a href="http://210.72.95.133" target="_blank">Key Laboratory of Tropical Forest Ecology</a>, 
+<a href="http://english.xtbg.cas.cn">Xishuangbanna Tropical Botanical Garden (XTBG)</a>, <a href="http://english.cas.cn" target="_blank">Chinese Academy of Sciences</a>, Mengla, Yunnan, China. (MSc thesis: Late Pliocene fossil plants from Heqing, Yunnan, SW China and their paleoenvironmental implications. Supervisor: Professor ZHOU Zhekun)
 
 ![_config.yml]({{ site.baseurl }}/images/xtbg.JPG)
 
