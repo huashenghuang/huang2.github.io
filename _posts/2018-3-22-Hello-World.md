@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to visit this website!
+title: Welcome!
 ---
 
 
