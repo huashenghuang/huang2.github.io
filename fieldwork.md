@@ -11,6 +11,8 @@ Central Myanmar Basin (Chindwin subbasin & Minbu subbasin) – organized by Myan
 
 ![_config.yml]({{ site.baseurl }}/images/fieldwork.JPG)
 
+Minbu subbasin
+
 
 ### December 2016	
 
@@ -18,12 +20,16 @@ Central Myanmar Basin (Chindwin subbasin) – organized by Myanmar Paleoclimte a
 
 ![_config.yml]({{ site.baseurl }}/images/fie.JPG)
 
+Chindwin subbasin
+
 
 ### May 2016
 
 Northwest Yunnan (Lijiang & Dali), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
 
 ![_config.yml]({{ site.baseurl }}/images/201605.JPG)
+
+Heqing, Yunnan Province
 
 
 ### September 2015
@@ -48,12 +54,16 @@ East Tibet (Changdu District) and southern Sichuan (Xiangcheng), China – organ
 
 ![_config.yml]({{ site.baseurl }}/images/20150503.JPG)
 
+Changdu, Tibet
+
 
 ### April 2015
 
 Central Yunnan (Lvhe), China – organized by Paleoecology Research Group, Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences led by Professor ZHOU Zhekun.
 
 ![_config.yml]({{ site.baseurl }}/images/201504.JPG)
+
+Market in Lvhe Town, Yunnan Province
 
 
 ### January 2015
@@ -63,6 +73,8 @@ Central and southwest Yunnan (Lvhe, Baoshan, Dehong & Lincang), China – organi
 ![_config.yml]({{ site.baseurl }}/images/20150101.JPG)
 
 ![_config.yml]({{ site.baseurl }}/images/20150102.JPG)
+
+Baoshan, Yunnan Province
 
 
 ### December 2014
@@ -83,3 +95,5 @@ Northwest Yunnan (Dali, Lijiang & Shangri-la), China – organized by Paleoecolo
 ![_config.yml]({{ site.baseurl }}/images/20141002.JPG)
 
 ![_config.yml]({{ site.baseurl }}/images/20141003.JPG)
+
+Mount Xiaoxue in Shangri-La
