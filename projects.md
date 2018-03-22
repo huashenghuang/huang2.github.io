@@ -7,7 +7,7 @@ permalink: /Projects/
 
 ### MSc
 
-Paleofire reconstruction in Miocene Wenshan, Yunnan, SW China, 07. 2015-06. 2018. Open Subject Fund from State Key Laboratory of Palaeobiology and Stratigraphy (NIGPAS), Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences.
+Paleofire reconstruction in Miocene Wenshan, Yunnan, SW China, 07. 2015-06. 2018. Open Subject Fund from <a href="http://english.nigpas.cas.cn/rh/rd/sklps/" target="_blank">State Key Laboratory of Palaeobiology and Stratigraphy</a>, <a href="http://english.nigpas.cas.cn" target="_blank">Nanjing Institute of Geology and Palaeontology (NIGPAS)</a>, <a href="http://english.cas.cn" target="_blank">Chinese Academy of Sciences</a>.
 
 ![_config.yml]({{ site.baseurl }}/images/nigpas.jpg)
 
@@ -16,7 +16,7 @@ Paleofire reconstruction in Miocene Wenshan, Yunnan, SW China, 07. 2015-06. 2018
 
 ### PhD Candidate
 
-Monsoons of Asia caused Greenhouse to Icehouse Cooling, Europrean Research Council Consolidator Grant, led by Guillaume Dupont-Nivet, from CNRS and Univeristy of Potsdam.
+<a href="https://cordis.europa.eu/project/rcn/197271_en.html" target="_blank">MAGIC</a>，Monsoons of Asia caused Greenhouse to Icehouse Cooling, Europrean Research Council Consolidator Grant, led by Guillaume Dupont-Nivet, from CNRS and Univeristy of Potsdam.
 
 ![_config.yml]({{ site.baseurl }}/images/erc1.jpg)
 
